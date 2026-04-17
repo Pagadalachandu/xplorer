@@ -29,4 +29,7 @@
 ​🛠️ Tools Used
 ​PowerShell: File system organization and automated directory management.
 ​Git/GitHub: Version control and remote repository synchronization.
-​Markdown: Professional documentation and reporting.
+​Markdown: Professional documentation and reporting.​🤖 Future Execution: Agentic SEO
+​I am currently exploring Browser-Use as a core automation layer.
+​Goal: Automate "Entity Monitoring" for the 10 identified experts.
+​Mechanism: Use Browser-Use + Playwright to scrape high-signal LinkedIn data and bypass traditional "static" SEO limitations.
