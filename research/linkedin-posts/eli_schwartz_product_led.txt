@@ -1,0 +1,9 @@
+​Subject: The 4 Pillars of AI Search in 2026
+Source: Eli Schwartz (LinkedIn/Product-Led SEO)
+Key Insight: Traditional top-of-funnel SEO is dying because AI answers general questions. The new battleground is "Mid-Funnel" search where specific user intent and product value meet.
+The "4 Pillars" Framework:
+​Visibility to Pipeline: Move beyond rankings; measure how search visibility actually fills the sales pipeline.
+​Switch Seats: Stop thinking like a marketer; pretend to be the customer. Map the actual journey of how they buy, not how they search for keywords.
+​Text Layer Optimization: AI bots (LLMs) crawl transcripts and supporting text layers. Optimize the text behind your videos and products first.
+​E-E-A-T is Human: AI evaluates authority like a human does. You cannot "fake" being the best; you must actually deserve the visibility through trust and reputation.
+Takeaway: Stop the "content conveyor belt." One high-value, product-led page that answers a specific mid-funnel question is worth 100 low-value blog posts in the AI era.

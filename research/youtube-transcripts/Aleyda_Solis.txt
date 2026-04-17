@@ -1,0 +1,467 @@
+Chapter 1: Intro
+0:00It's not long until I'm scrolling through my LinkedIn feed that I find out that SEO is dead. Uh to my surprise,
+0:066 secondsagain, SEO is yet again evolving. The principles in SEO remain also in AI search. You need to also allow AI
+0:1515 secondscrawlers to access to crawl your content. The validation that you need to take action on your hosting or your CDN
+0:2222 secondsis a little bit different because the user agents are different as well as the ability for Google to index our content.
+0:2929 secondsThey are very sophisticated at it and they render JavaScript with challenges of course when this is done at scale and
+0:3636 secondsdepending on the scenario but the reality is that AI crawlers don't do it at all. So if you rely on client side I
+0:4343 secondsrent render JavaScript for critical content or navigation and so on. Well this is information that AI crawlers won't see.
+Chapter 2: In This Episode
+0:5252 secondsWhat's up everyone? Today we had the honor of sitting down with Alita Solis international SEO consultant. In this episode, we tackle crawlability
+1:001 minuterequirements for AI search engines. Why LLMs are just a new search channel, not a new function. AI search visibility
+1:071 minute, 7 secondsanalysis for SEO teams. Why LLM search rewards brands with real community signals. And how topic level analysis
+1:141 minute, 14 secondsshapes AI search strategy. All that and a bunch more stuff after a quick word from two of our awesome partners. This episode is brought to you by Revenue Hero.
+1:231 minute, 23 secondsTwo field forms. Complete context, instant scheduling.
+1:291 minute, 29 secondsFinally, you get to pick all three without a single line of code.
+1:321 minute, 32 secondsIntroducing native enrichment by Revenue Hero. Plug in Clear Bit, Crust Data, Apollo, or Stack All Three.
+1:401 minute, 40 secondsEnrich all the data you need instantly on Submit. Stack your enrichment providers. Waterfall your way to clarity. Determine qualification and
+1:491 minute, 49 secondsmeeting routing based on enriched information. Layer it onto your current distribution logic.
+1:561 minute, 56 secondsBook more meetings with your qualified buyers. Get started at revenuehero.io.
+2:042 minutes, 4 secondsThis episode is brought to you by Mammoth Growth. Ever feel like your data is lying to you? Like you're making big bets on numbers you don't even trust?
+2:112 minutes, 11 secondsEveryone talks about garbage in, garbage out, but almost no one actually fixes the garbage. That's where Mammoth Growth comes in. They're the fastest AI powered
+2:192 minutes, 19 secondsdata team on the planet. They build productionready data architecture that turns your fragmented customer data into one unified trustworthy source of truth
+2:282 minutes, 28 secondsfast. Most companies spend months trying to get answers. Mammoth Growth compresses weeks of analytics engineering into minutes using a multi-
+2:362 minutes, 36 secondsaent AI workflow. No rework, no broken dashboards, just clean, reliable data models you can act on with confidence.
+2:442 minutes, 44 secondsKalanley, Seammens, TED, and hundreds of other brands trust Mammoth Growth to fuel measurable growth. Check them out at mammothgrowth.com to see how they
+2:512 minutes, 51 secondsmake bad data disappear. Elena, thank you so much for your time today. Really excited to chat. Thank you very much for the opportunity.
+2:592 minutes, 59 secondsIt has been a little bit crazy for me lately with so many inerson events. So,
+3:033 minutes, 3 secondsit's even refreshing to be able to to speak with you online like this, a little bit different, more laidback as well.
+3:103 minutes, 10 secondsNice. Awesome. Yeah, I saw all the posts on on LinkedIn about your your frequent traveling right now. I think it's conference season for a lot of folks,
+3:183 minutes, 18 secondsbut yeah, it's not every day that we have an SEO powerhouse like yourself on the podcast. We were joined by Mike King uh in the early days of the podcast, but
+3:263 minutes, 26 secondsI've actually invited my old co-founder and co-host today to help me with this episode. He's super deep in the SEO space and I feel like the conversation will be on a different bar within. So,
+3:363 minutes, 36 secondsMr. John Taylor, thank you so much for your time. Welcome back.
+3:393 minutes, 39 secondsYeah, thanks for welcoming me back. I hope you enjoy all the artwork behind me as this is what I've been doing the last year is trying to become an artist
+3:473 minutes, 47 secondscuz there's some kids uh kids artwork in there too. Uh I've got the Riverside recording here so it's it's all blurry but the folks on YouTube will get to see the beauty.
+3:563 minutes, 56 secondsYeah, beautiful art all all printed midjourney coloring books. This is the this is the vibe these days guys. AI for everything.
+4:054 minutes, 5 secondsVery cool. All right, let's get into it.
+Chapter 3: Crawlability Requirements for AI Search Engines
+4:074 minutes, 7 secondsUm, the first question I wanted to ask you is this idea that you've echoed the sentiment that good SEO is good GEO.
+4:154 minutes, 15 secondsYou're basically implying that like fundamentals of SEO carry over to AI search, but you've also talked about how whether that's enough depends on how
+4:234 minutes, 23 secondswell you're already addressing AI search behaviors versus your competitors. Which core SEO practices do you think remain
+4:304 minutes, 30 secondscritical for success in this like AIdriven search results that we deal with today? Yes, indeed. And and thank you for bringing that up. I think that
+4:394 minutes, 39 secondsis the hot topic uh right now in the search world. Indeed. And in digital marketing as well. I can say that the
+4:464 minutes, 46 secondsprinciples uh in SEO remain uh also in AI search. Um remain valid and and very
+4:564 minutes, 56 secondsvery relevant. From a crawability standpoint, you need to also allow AI crawlers to to access to crawl uh your
+5:035 minutes, 3 secondscontent, your information. The thing is the rules that you might want to set might be different depending on your own context as well, right? Um the the
+5:125 minutes, 12 secondsvalidation that you need to uh also do and and and and uh take action on uh on
+5:215 minutes, 21 secondsyour hosting or your CDN is is a little bit different because the the user agents are different as well. So maybe
+5:285 minutes, 28 secondsyou have allow uh traditional search engine changing scrollers to access your content but you're unknowingly blocking
+5:365 minutes, 36 secondsAI crawlers. So it's an extra step that you need to do but that scrollability remains important in indexability as
+5:425 minutes, 42 secondswell. Um, we love in SEO to uh complain about the ability for Google to index
+5:505 minutes, 50 secondsour content, but the reality is that they are very sophisticated at it at at this point because of all of the the
+5:575 minutes, 57 secondsyears of experience and they render JavaScript with challenges. Of course,
+6:026 minutes, 2 secondswhen this is done at scale and depending on the scenario, um that the speed or how how long does it take to render your content that relies on JavaScript and so
+6:116 minutes, 11 secondson. But the reality is that AI crawlers don't do it at all. So if you rely on uh client side render JavaScript for
+6:206 minutes, 20 secondscritical content or navigation and so on, uh well, this is information that polers won't see, right? And and then
+6:276 minutes, 27 secondsyou mentioned different uh search behaviors, right? It was this open AI research that was finally published I
+6:356 minutes, 35 secondsbelieve a month ago or so that I was so very happy with because this was uh something that uh many uh independent
+6:446 minutes, 44 secondsplatforms third party tools were already um sharing about this new intents uh
+6:506 minutes, 50 secondsthat had to do with creating task oriented uh type of actions that didn't
+6:576 minutes, 57 secondsexisted with traditional search and um might or might not necessarily be relevant to to address or to target,
+7:047 minutes, 4 secondsright? Uh from a marketing standpoint, but that definitely different behaviors,
+7:097 minutes, 9 secondsright? And and also the the role of citations and mentions in popularity as a senior of of authority, right? If you
+7:177 minutes, 17 secondswere doing sophisticated enough SEO at this point, uh if you had a mature program, you were very likely already
+7:257 minutes, 25 secondsaligned with your digital PR and community management. um activities and efforts um and and and
+7:337 minutes, 33 secondsand very likely were already making the most out of it. But very likely you also were very focused on getting back links,
+7:407 minutes, 40 secondsgetting links uh from external sources uh from relevant, highly authoritative etc. But very likely you were focused much much more on links than on
+7:497 minutes, 49 secondsmentions. Right? I go the shift uh and the weight and the importance that mentions have now now changed and and then finally because of the the the
+7:587 minutes, 58 secondsdifference and and shift in interface as well of what we can expect and the the the outcome of the behavior of the user
+8:068 minutes, 6 secondswithin the platform. um tra traditional search has been considered and treated
+8:128 minutes, 12 secondshistorically as a performance uh channel right and this is what we were always look into and what we care about in
+8:218 minutes, 21 secondsterms of KPIs and goals right um rankings uh uh clicks uh traffic
+8:288 minutes, 28 secondsconversions right very like that and there were already um let's say challenges in attribution that we can
+8:368 minutes, 36 secondsall agree but it was very performance focused. Now it it will be very myopic to treat uh AI search and lens like that
+8:458 minutes, 45 secondsright there's a layer there of uh brand uh branding and and to consider it as a as a branding channel as well and and
+8:548 minutes, 54 secondsthe inclusion the visibility the share of voice the sentiment of the inclusion of the mention even if it doesn't carry
+9:009 minutesa link and it doesn't refer um direct traffic or traffic or a user uh to your
+9:079 minutes, 7 secondssite right way it plays a role within the purchasing journey and as a marketing channel that should be
+9:149 minutes, 14 secondsaccounted for and should be monitored and addressed and taken into account and so on. Right? So as you can see like
+9:229 minutes, 22 secondsthat quite a few differences in different areas and principles and the pillars of of of search um and it how
+9:319 minutes, 31 secondsmuch does it change from what you were already doing. So it depends on your context, what the level of maturity that
+9:399 minutes, 39 secondsyou already had, the level of sophistication, um how much you have in the backlog or you you had in the backlog in the in the past and and also
+9:469 minutes, 46 secondsyour own vertical your own your own audience right in depending on the the level of visibility and uh that you already have versus competitors etc etc.
+9:589 minutes, 58 secondsUm it depends a lot on the context and unfortunately especially in SEO we have the challenge that I believe that we
+10:0510 minutes, 5 secondsalways love to say it depends and then we share a lot of the the context factors and criteria and so on and and
+10:1210 minutes, 12 secondssadly decision makers many many times at sea level they they don't like that complexity right and they they they expect the very straightforward answer
+10:2110 minutes, 21 secondsand um it's challenging to communicate that and to clarify all that but hopefully little by little especially
+10:2710 minutes, 27 secondsones that we have access to more data uh to more insights uh more research like the ones that are being published um now
+10:3610 minutes, 36 secondsmore and more um it will get easier let's say to align it and and to tie it in order to uh make the most out of it
+10:4410 minutes, 44 secondsand eliminating while eliminating all of this noise uh as well I think your your take is in is spot on
+10:5310 minutes, 53 secondsand a fascinating illumination of how We're seeing the space evolve, right?
+10:5810 minutes, 58 secondsWhat you've described, I think, is the key differences between SEO and geo, but I think also you describe the tools and
+11:0511 minutes, 5 secondsprocesses that SEOs today are going to use to solve the problems of geo tomorrow, right? Like an SEO is going to understand how to talk about, hey,
+11:1311 minutes, 13 secondsshould we move to server side rendering?
+11:1411 minutes, 14 secondsThis could make a lot of sense for indexing. Are we able to uh make sure that all the bots are crawling our site cleanly? So working with these teams, I
+11:2211 minutes, 22 secondsfeel personally that the SEO mandate gets expanded by the GEO versus it's like a brand new field. One of the
+Chapter 4: LLMs As A New Search Channel In A Multi Platform Discovery System
+11:3011 minutes, 30 secondsthings that I don't go online often anymore, as Phil knows, I'm not on social media a ton, but when I do sign into social media, it's not long until I'm scrolling through my LinkedIn feed
+11:3911 minutes, 39 secondsthat I find out that SEO is dead. Uh to my surprise, being an active consultant, I'm like,
+11:4511 minutes, 45 seconds"Oh, it's dead. Dang, I should have switched gears a long time time ago."
+11:4811 minutes, 48 secondsUh but what you described as well also kind of encapsulates what I see when I'm working with clients is a great confusion around what is geo, where does
+11:5711 minutes, 57 secondsit fit in the in the road map. I think SEOs are are struggling still to articulate h how it's the same and how
+12:0412 minutes, 4 secondsit's different. One of the ways that I've been meditating on this is thinking about LLMs as actually just a new channel within a broader a broader
+12:1212 minutes, 12 secondsmedium, right? You have Google search with the side of Bing and Yahoo. Uh but now you have LLMs. This is like Tik Tok to our YouTube. What do you think about
+12:2212 minutes, 22 secondsthat? Do you how do we communicate this to the stakeholders in our organization?
+12:2612 minutes, 26 secondsIs this a new channel within a the same 100% 100% I I love that take and I completely agree. And you know what it's
+12:3412 minutes, 34 secondsit's funny and it's a little bit ironic because in SEO we have um in the western world we have traditionally complained
+12:4212 minutes, 42 secondsabout the role of Google as the big monopoly. Well, there are even trials and and so on, right? Uh because of that
+12:4812 minutes, 48 secondsin the US. Uh but yes, because of everybody uses Google. So for some people
+12:5512 minutes, 55 secondsSEO is a synonym of Google focus uh optimization uh organic optimization
+13:0313 minutes, 3 secondsfor their SERs and their SERs are in certain format and so on. Right? Once that the SERs start to shift and and and
+13:1113 minutes, 11 secondsuh diversify a little bit in different formats that don't necessarily complying with what they expected and then other
+13:1813 minutes, 18 secondscompetitors, other platforms start also taking part and have a role into this new interfaces and ways of platforms to
+13:2613 minutes, 26 secondssearch then all of the sudden the reaction rather than saying like SEO is evolving they need to take into account
+13:3313 minutes, 33 secondsthese additional platforms that are also now used to search, to look, to discover information, to consume information that might or might not be commercial, but
+13:4313 minutes, 43 secondsthere might be a again a mix of informationational, commercial,
+13:4713 minutes, 47 secondstransactional and so on, and might be useful for my clients and and and um companies to attract potential customers
+13:5513 minutes, 55 secondsfrom. And rather than say yes, it's evolving, it's like oh it's dying because they connect unfortunately because of the the the
+14:0314 minutes, 3 secondsposition in the market that Google has historically had in the in the western world. However, we can also say that for
+14:1114 minutes, 11 secondsum quite a few industries and depending on who your target market is uh well that was already sort of diversified. So
+14:1914 minutes, 19 secondsfor example, if you were targeting like younger generations like Tik Tok for example or or Instagram depending on
+14:2714 minutes, 27 secondswhich retailer whatever and you also and I have clients that are in the retail space that also ask me for information
+14:3414 minutes, 34 secondslike what are the best practices from a searchability standpoint that we should uh start uh integrating and and taking
+14:4214 minutes, 42 secondsinto account to maximize the visibility besides the ads. Right? So I think that finally we have gotten into that um
+14:5014 minutes, 50 secondsspace in which like there won't be necessarily a single platform anymore or
+14:5614 minutes, 56 secondsat least in the next few years when like everybody starts shifting a little bit in their behavior and and uh adopting
+15:0515 minutes, 5 secondsthese new channels. Let's see maybe it's not only Google anymore but Google and chipd and perplexity and there are three big platforms etc etc but but yes I I
+15:1515 minutes, 15 secondsthis should be I I agree the vision that SEO is yet again evolving as it always
+15:2215 minutes, 22 secondshas and now it doesn't need to account only for a single platform and way to do things and or or search um paradigum uh
+15:3215 minutes, 32 secondsand and a single uh SER format but uh different channels because now the behavior is more split and diversified.
+15:4015 minutes, 40 secondsUh interesting enough, I was um a couple of months ago at this event in Shinshen in China and uh it blew my mind how BU
+15:4915 minutes, 49 secondsthere doesn't have nowhere the weight uh uh than as as Google in the western
+15:5715 minutes, 57 secondsworld. uh they acknowledge also the challenges that BU uh has providing honest accurate balanced answers in many
+16:0516 minutes, 5 secondsfields. So they use a variety of platforms to gather information. So if you really want to maximize your organic reach let's say in China they will say
+16:1416 minutes, 14 secondsokay yes optimize for bio but yes maybe you should also use red node that is their Instagram like app that they use
+16:2216 minutes, 22 secondstheir uh to post everything um and and very focusing commercial oriented uh
+16:2916 minutes, 29 secondsproducts and services as well and also go uh go for Tik Tok and and so they I think that because of this they are much
+16:3716 minutes, 37 secondsmore used to diversifying and having presence across all of this and I believe that this will happen also more
+16:4416 minutes, 44 secondsand more in the western world and and when we finally realize that SEO is not only for Google well we will be much
+16:5116 minutes, 51 secondsmore used I guess to stop saying that it's dead and just like making sure that we optimize for whatever platform it is
+17:0017 minutesnow used by the audience and shift let's say the principles and priorities and factors that we optimize for depending on what's taken into account in that
+17:0917 minutes, 9 secondspart in those particular platforms that are actually useful and relevant for our audience.
+17:1517 minutes, 15 secondsIt it's fascinating. The SEO space itself is so opaque, right, when we're looking at a single provider like Google. I remember years ago, you
+17:2317 minutes, 23 secondsmentioned lawsuits, but I remember breathlessly sitting on a Twitter thread where Ran Fishiskin was watching a US congressional hearing to kind of
+17:3117 minutes, 31 secondsunderstand and deconstruct how Google was ranking things. And I know last year there was this this big leak that came out. It's a it's fascinating and and
+17:3917 minutes, 39 secondsfrom my perspective, I find it actually somewhat liberating to have to be able to elevate some of the principles of SEO to uh to to to general principles. I'm
+17:4817 minutes, 48 secondscurious, I think, you know, coming back to the idea of how do SEO and geo mesh together? I think there are, you know,
+Chapter 5: AI Search Visibility Analysis for SEO Teams
+17:5817 minutes, 58 secondsagain, sometimes on social media I see this, hey, we should have a separate geo function, but I clearly I don't think that's what you're thinking. But what I
+18:0618 minutes, 6 secondswould be interested in asking is how do you layer in that geo? How do you talk with like a mature SEO team about okay now we're going to have a geo focus like
+18:1518 minutes, 15 secondswhat are the kind of jobs to be done the tasks that that you break out? How do you earmark certain uh roles for for a
+18:2318 minutes, 23 secondsgeo focus versus an SEO focus to get to that like that nuance that I think we all see as a value point of these new engines.
+18:3218 minutes, 32 secondsYeah. Well, there are two things. Uh, on one hand, how much uh are LLMs driving
+18:3918 minutes, 39 secondsto your site? What what is the current revenue? What is the current traffic?
+18:4418 minutes, 44 secondsUm, also um doing a little bit of research, all audience research in those top platforms that already driving a lot
+18:5318 minutes, 53 secondsof traffic to your own website. And among your top competitors, you can use third party tools uh to take a look at which are the biggest driver for traffic
+19:0219 minutes, 2 secondsuh not only to your own site but to to theirs, right? And and uh go and and and and take a look at what is your
+19:1119 minutes, 11 secondsvisibility in there for the top questions, the top queries that you have have been historically used and useful.
+19:2019 minutes, 20 secondsUm and we know that there's a personalization uh as well uh that is much uh bigger and
+19:2819 minutes, 28 secondsheavier uh in in LLMs than in traditional search. But if you do quite a few of them uh for the different
+19:3619 minutes, 36 secondsaudiences and personas and and use cases, you can get a little bit if if you already mentioned if the the the
+19:4419 minutes, 44 secondsvisibility that you have is consistently good and above and or the same level or even better than your competitors or is
+19:5019 minutes, 50 secondsit worse? Um where are the citations coming? are this um what properties or
+19:5719 minutes, 57 secondsplatforms um coming from those that you have actively optimized already or where you have proper presence uh or are this
+20:0620 minutes, 6 secondscoming from platforms that where you don't have any presence at all and you're not controlling or influencing influencing at all and depending if the
+20:1420 minutes, 14 secondsanswers here are positive or negative or you're included and all of the sudden you realize that unlike the traditional
+20:2220 minutes, 22 secondsSERs For many of these questions that are much more conver uh commercially driven, comparing you versus your competitors,
+20:3120 minutes, 31 secondsuh the the the results are actually negative. You're included, but you are mentioned uh with bad ratings and and uh and and and shown in a negative light.
+20:4420 minutes, 44 secondsSo you start identifying where is this coming or is this this this coming from all of this Reddit threads that uh were
+20:5120 minutes, 51 secondsburied in the SER but somehow they are used as a source here. So hm probably I should align more with my community
+20:5820 minutes, 58 secondsmanager uh to better understand what they already doing and if they're taking them into account at all or if there
+21:0621 minutes, 6 secondsthere's any plans to do that etc etc. So I I thinking like let's start doing a research analysis and audit a validation
+21:1421 minutes, 14 secondsand depending on how I am shown or not maybe I discover and this is something interesting that happened to me not so long ago
+21:2221 minutes, 22 secondsthat my hosting company was actually blocking the access of AI bots to a few of my sites and I was like what what is
+21:2921 minutes, 29 secondsgoing on? why all of the information that is provided when I asked regarding this the the the topic the content of of
+21:3821 minutes, 38 secondsthe site like trying to force even because when I was when I was seeing that the the information was not coming or the the share of voice that I
+21:4521 minutes, 45 secondsexpected was very poor and I started to dig for further and then I realized it was because uh the the hosting platform
+21:5221 minutes, 52 secondswas blocking right so I had to get in touch with them to ask why like unfortunately for and I this I this is something that you should be aware of.
+22:0122 minutes, 1 secondBe aware of that many hosting companies will proactively block and you should opt out of that if if you don't want to.
+22:0922 minutes, 9 secondsI mean, by all means, I believe that the the you there are reasonable scenarios for which you might not necessarily want
+22:1722 minutes, 17 secondsuh AI bots to access to your to your website, but you should be aware of it and it should be like more of an opt-in type of behavior rather than opt out.
+22:2722 minutes, 27 secondsalways with the information in front and being aware of the implications and so on. In any case, I ended up opting out
+22:3422 minutes, 34 secondsopting out of of that and I realized that it happened because I had taken the steps to validate etc. So my recommendation will be you should uh
+22:4322 minutes, 43 secondsdefinitely take the steps to validate that and I do believe that uh the best professionals in marketing and in any
+22:5122 minutes, 51 secondsarea to take the steps to understand the criteria the the the type of factors uh
+22:5822 minutes, 58 secondsand having access already to tools many uh SEO tools already and run trackers already provide this sort of of of of
+23:0623 minutes, 6 secondsdata already are SEOs right so I don't think that you should create jet add another role just for this or add another discipline only if you want to
+23:1323 minutes, 13 secondsthrow money potentially to the bin and I don't think that is something that you want because you already have someone
+23:2123 minutes, 21 secondsand and people agencies your agencies your consultants already know about this or your in-house SEO so why not leveraging already their knowhow to
+23:3023 minutes, 30 secondscover and to target this yet another platform as I mentioned not it's not a completely new discipline it's the yet
+23:3623 minutes, 36 secondsanother platform now if it becomes comes let's say in in a few years right everything is evolving a lot it's
+23:4423 minutes, 44 secondschanging a lot imagine that in a few years every single platforms behave and and has an interface that is so very
+23:5223 minutes, 52 secondsdifferent to each other and is are driving so many uh powerful impact to your organization in many different ways
+23:5923 minutes, 59 secondsthey might even require specific specialization and yes at that point maybe you do might want to have in a few
+24:0724 minutes, 7 secondsyears time like your LLMs expert optimization just just for Chadypt,
+24:1124 minutes, 11 secondsanother for AI mode, another for like like we have a Tik Tok specialist right now and and and YouTube specialists just
+24:1924 minutes, 19 secondsbecause of how their algorithms and and and characteristics differ so much from from the the ones from Google for
+24:2624 minutes, 26 secondsexample you you might in the future right but right now this is just starting right at the end of the day marketing is about impact uh and and
+24:3524 minutes, 35 secondsrevenue and ROI right so I don't I don't see the ROI yet there, right? So,
+24:4124 minutes, 41 secondsleverage what you already have. If you have a good SEO, uh they should know about it. in-house agency consultant,
+24:5024 minutes, 50 secondsthey should be able to to know about this, how to do this and and tell you if the gap is very big and if you do need
+24:5824 minutes, 58 secondsto invest more and and very likely also align what is going to have impact in AI search with a lot of those tasks tasks
+25:0725 minutes, 7 secondsthat have been left in the backlog in traditional search uh that will also drive impact very likely in traditional search. This episode is brought to you
+25:1525 minutes, 15 secondsby Moing Engage and their new warehouse native C which revolutionizes the way data should be seamlessly fetched,
+25:2225 minutes, 22 secondsanalyzed and activated. Now you can use Moen engage cloud data sync to sync your warehouse data with Moen engage and use
+25:2925 minutes, 29 secondsit to segment audiences or personalize messages without any development. Just set and forget. Use Moen engage
+25:3625 minutes, 36 secondswarehouse segments to create segments on your warehouse data without moving underlying events, properties, or proprietary segmentation logic and activate them directly on Moing Gage.
+25:4825 minutes, 48 secondsUsing warehouse data analytics, brands can also directly generate insights from their warehouse data. Your long search
+25:5525 minutes, 55 secondssolution for seamless data sync, smarter segmentation, dynamic personalization,
+25:5925 minutes, 59 secondsand delightful customer experiences ends here. Warehouse native CP from Mowing Gauge, making it easy, smart, and secure. Learn more at mowingage.com.
+26:0926 minutes, 9 secondsThis episode is brought to you by our friends at Knack. I have the amazing pleasure of chatting with some of the greatest minds and marketing operations,
+26:1626 minutes, 16 secondsbut you'd be shocked at how many of them have the same issues when it comes to their campaign creation process. They're dealing with things like scaling,
+26:2426 minutes, 24 secondspersonalization, keeping assets on brand, render testing emails, working in rigid templates, and worst of all,
+26:3026 minutes, 30 secondshaving to hand code emails. But many of the leaders in the space are using Knack to eliminate these headaches. Knack is a noode email and landing page creation
+26:3926 minutes, 39 secondsplatform that covers initial campaign requests right until the sync to your marketing automation platform. Knack improves the whole campaign creation process by bringing the building,
+26:4926 minutes, 49 secondsoptimization, testing, collaboration,
+26:5126 minutes, 51 secondsand also translation functions all in a single spot. So you don't have to jump around and coordinate feedback between a bunch of different people or wait on
+27:0027 minutesdevelopers for various simple edits because at the end of the day, marketing ops folks want to focus on process and efficiency. Marketers want to focus on
+27:0727 minutes, 7 secondscreativity and Knack makes sure you get both and then some. Check them out at knack.com. That's kn a k and tell them we sent you. I'm curious to ask you like
+27:1627 minutes, 16 secondsthe SEOs listening right now or folks that are really deep in in Google or in a certain channel for SEO. Do you think
+27:2327 minutes, 23 secondsthat without question LLM or AI search is the next one that they 100% should be
+27:3027 minutes, 30 secondsinvesting most of their eggs into in the next few years?
+27:3427 minutes, 34 secondsWell, it's definitely these are definitely channels that if you see the evolution uh of of usage is is growing a
+27:4127 minutes, 41 secondslot. Uh so they should be definitely uh accounted for that you should definitely need to take into account and
+27:4927 minutes, 49 secondsand and put them into your different platforms that you should be validating,
+27:5627 minutes, 56 secondsassessing, researching to identify potential. Maybe the potential that you identify is low. Maybe the potential is big and depending on what you identify
+28:0428 minutes, 4 secondsand that research uh you will need to allocate more and invest and want to invest more. But at least to validate and assess the potential. Yes. 100%.
+28:1428 minutes, 14 secondsYeah. Yeah. That the whole question about like assessing that potential and and validating it is is tricky. I feel like you mentioned at the top of your
+28:2228 minutes, 22 secondslast answer um how much traffic is coming from LMS, how much revenue are coming from mentions. I think that's one of the biggest question marks I see on
+Chapter 6: Creating Brand Led Informational Content for AI Search
+28:3028 minutes, 30 secondsLinkedIn with geo is what do we even track when it comes to geo? Uh we don't really have access to clean data sets or
+28:3828 minutes, 38 secondsany type of predictive volume that SEOs are used to. So do we just go back to first principles here? Is that your advice? Like JT was just talking about
+28:4628 minutes, 46 secondsin his consulting work, he's leading to more like persona narrative driven content in an LLM driven environment.
+28:5328 minutes, 53 secondsLike do you think the top offunnel model even makes sense anymore? What are your thoughts there? Yes, I I do believe that
+29:0129 minutes, 1 secondum it's definitely a shift with this traditional unfortunately traditional
+29:0829 minutes, 8 secondsSEO sort of tactic in the past that was to create and invest a lot of top of the funeral content to attract traffic. Um,
+29:1729 minutes, 17 secondsbut funnily enough, this was something that was already not was not necessarily been uh very cost
+29:2529 minutes, 25 secondseffected lately with AI overviews already.
+29:2929 minutes, 29 secondsUh because this was well very conceptually driven, veryformational type of of content for which Google was
+29:3829 minutes, 38 secondsalready or is already given more AI overviews uh because they can be easily let's say answer
+29:4629 minutes, 46 secondsuh and the user will tend to be very easily satisfied if these are high level
+29:5329 minutes, 53 secondsuh generic sort of questionsformational needs that they can easily solve by just
+30:0130 minutes, 1 secondseeing a little bit of a summary regarding this the concept right uh however there's also the point about
+30:1030 minutes, 10 secondswell if you want to establish authority in your field you cannot just say don't invest informational content don't invest in in uh the content that will on one
+30:2030 minutes, 20 secondshand establish authority to attract citations um to to establish your brand.
+30:2530 minutes, 25 secondsUh but also this is how you become personalization resilient in LLMs covering the different intents through the full customer journey targeting your
+30:3230 minutes, 32 secondsdifferent personas across use cases right from the start. But the point is like then deciding what is the type of
+30:4030 minutes, 40 secondscontent that actually makes sense that is informational but that also makes sense to create because it's very on
+30:4730 minutes, 47 secondsbrand and it needs to be very on brand is it cannot be fluffy glossaryy type of content addressing generic questions
+30:5530 minutes, 55 secondsthat is are not necessarily about your product or service or your brand. Right?
+30:5830 minutes, 58 secondsSo think more about industry insights like research stats, trends, um case
+31:0431 minutes, 4 secondsstudies, uh thought leadership, um or um comparisons versus uh competitors or or FAQs,
+31:1531 minutes, 15 secondsuh leverage from your community that you start publishing on on your side. Uh providing more context for decision-
+31:2331 minutes, 23 secondsmaking and so on. uh help centers and forums uh also make a lot of sense to optimize further in order to target a
+31:3231 minutes, 32 secondslot of this what you could consider informational uh questions and and and queries at the start of the journey as well not only postpurchase. So think
+31:4031 minutes, 40 secondsabout that. So this is the this is content that doesn't only make sense just to get traffic and and and easy traffic at the start of the search
+31:4931 minutes, 49 secondsjourney uh top of the final traffic but also makes sense to address um your clients well and to provide a good uh
+31:5831 minutes, 58 secondspre-sales and post sales support as well. Uh so I this is what I recommend to clients. No, you need to continue
+32:0632 minutes, 6 secondsinvesting but just be more mindful of what you invest. This should be on brand content that should be helpful. Even if
+32:1332 minutes, 13 secondsyou take SEO out of the equation, even if you take LLMs out of the equation,
+32:1832 minutes, 18 secondsthis is type this is the type of content that you want to have in there because it's useful for your customers and it will make you uh sell more. And this is
+32:2632 minutes, 26 secondsindeed the the content that will then even if there is an AI overview or the
+32:3332 minutes, 33 secondsthe user uh or the potential customers end up going to LLM to get an answer,
+32:3832 minutes, 38 secondsthey will likely not be satisfied just with a simple answer. They will want to dig more and want to know the source.
+32:4632 minutes, 46 secondsUm, and because it is on brand, I will expect that they recognize you, they engage with with with you and well, this
+32:5332 minutes, 53 secondswhere when the visit is generated and even if they don't generate the visit right away, uh, now they know you now
+33:0133 minutes, 1 secondthey know your brand. Whenever they continue researching about the products or service later on in the process, they will recognize you and very likely will
+33:0933 minutes, 9 secondsthey will be more keen to purchase from you because they already recognize you uh that you were one of the sources that provided the answers at the beginning of
+33:1733 minutes, 17 secondsthe journey and this is how we need to think about it. Now the complexity here is attribution and how do you uh manage cost effectiveness and so on and and and
+33:2633 minutes, 26 secondsand uh yes that is the challenge pretty much but uh but yes 100% we need to establish on brand comprehensive topical
+33:3433 minutes, 34 secondsauthority targeting the full customer journey with helpful multimodel indexable information that highlight your unique selling propositions and
+33:4133 minutes, 41 secondsgenerally helps customers and this how I see like just eliminating top of the funeral that that that's I would say
+33:4933 minutes, 49 secondslike the least lazy um approach to avoid uh bleeding resources, let's say, but uh
+33:5733 minutes, 57 secondsthe actual strategical way to address it is like how you continue doing it in a way that actually makes sense and is on brand. One of my hopes out of this, and
+34:0634 minutes, 6 secondsI think you're touching on it uh quite a bit, so I'm going to annunciate it a little bit more, is that we end up starting in the SEO world and the
+34:1434 minutes, 14 secondscontent marketing world, creating content that is persona driven and customer focused versus just the traditional, I don't want to call it
+34:2234 minutes, 22 secondstraditional, but too often SEO gets typ cast as we go to Semrush or HS and we find a list of keywords and then we
+34:2934 minutes, 29 secondswrite to those keywords. Whereas nowadays I'm finding personally in my own work is that the LLM SEO game has
+34:3834 minutes, 38 secondsallowed me to get permission to talk to people that in the organization I wouldn't typically talk to.
+34:4334 minutes, 43 secondsSome of my most fruitful conversations as Phil alluded to uh was talking to salespeople and just saying what are the customers saying to you like what are
+34:5134 minutes, 51 secondstheir pain points? What are they what are the words that they use? and then getting into transcripts. Like I think there's an art form in picking content
+Chapter 7: Choosing SEO Topics That Drive Brand-Aligned Demand
+35:0135 minutes, 1 secondthat is more LLM focused but still underneath that SEO that SEO banner,
+35:0635 minutes, 6 secondsright? We've always had keyword volume zero and we're introducing zero click into into the story. But I'm curious about your perspective on how do we as
+35:1535 minutes, 15 secondsmarketers SEOs mine content that is relevant? Like what sources do you find working? uh and how do you kind of take
+35:2435 minutes, 24 secondssome of those I think some of this is experimentation you have to experiment you have to try something to see to see what comes back if your approach land
+35:3135 minutes, 31 secondslands but being aligned to the persona and the customer journey seems to make the most sense so curious your process there
+35:3835 minutes, 38 secondsyeah so I I believe that that that is an an issue that we have had historically right like thinking of SEO very t as as
+35:4735 minutes, 47 secondsvery tactic oriented channel uh without applying even the same type of principles that you will apply to any other channel for my marketing
+35:5435 minutes, 54 secondsstandpoint. That is a reality and is and is um uh so going and looking for queries or topics to target through
+36:0236 minutes, 2 secondstools and and and um letting yourself only drive uh which to pick bake based
+36:0936 minutes, 9 secondson the search volume rather than asking the your customers or at least leveraging your customer support uh or
+36:1936 minutes, 19 secondsinsights and and validating with the product or the marketing person who knows more about the pains etc. which in
+36:2736 minutes, 27 secondsmany many occasions were not yet documented in in in those tools, right?
+36:3236 minutes, 32 secondsOr or the were so blended and um that were not necessarily accounted there
+36:4036 minutes, 40 secondsyet, right? In many occasions. So that that is a problem that was a challenge that we historically had. Um but good
+36:4836 minutes, 48 secondsSEO uh that actually uh well it's scalable and resistance to all of this
+36:5736 minutes, 57 secondschanges and evolution is the one that yes talks with product talks with with customer service talks with digital PR
+37:0537 minutes, 5 secondsuh with social media uh with branding and make sure to target queries that actually align with the with the brand.
+37:1237 minutes, 12 secondsSo um a few years back one of my clients was a um a cruise line a very famous cruise line and one of the things that
+37:2137 minutes, 21 secondsthey mentioned right away from the beginning is like you will see in the keyword research that you you do that um
+37:2837 minutes, 28 secondsthe most popular keyword uh or among the top three most popular keywords there are a couple of them that are cheap cheap cruises and cheap cruises plus the
+37:3637 minutes, 36 secondsyear things like that it's like we are not cheap we don't want to go for them it doesn't matter that the search volume is high and this is the type of insight
+37:4537 minutes, 45 secondsand information that we should think about when we do SEO and historically not only right now right unfortunately
+37:5437 minutes, 54 secondsit's usually in agencies the person who many times end up doing
+38:0438 minutes, 4 secondsthe keyword research is the intern right so rather than a proper sophisticated marketer who has a knowhow an
+38:1238 minutes, 12 secondsunderstanding of the product or service or with that input, right? So, of course, you end up having keywords that don't necessarily make sense. They have ton of search volume,
+38:2238 minutes, 22 secondsdon't make sense with the tone of voice,
+38:2438 minutes, 24 secondswith unique selling position, with the brand, etc., etc. And finally I believe that we have come to the place right now
+38:3238 minutes, 32 secondsin which it make us rethink of yeah does it really make sense going for all of
+38:4038 minutes, 40 secondsthese terms for the sake of trying to get easy cheap uh traffic straightforward
+38:4738 minutes, 47 secondstraffic traffic traffic that we can get into. Um there was uh or there is this platform that uh it was one of the
+38:5738 minutes, 57 secondsbiggest uh losers in uh from one of the Google updates last year. Not going to name names but you probably know it. And
+39:0639 minutes, 6 secondsu these are platforms that they had so much authority and popularity that realistically they could get away for a
+39:1339 minutes, 13 secondslong time for whatever topic or content that they will publish and it will tend to rank well as long as it if it was
+39:2039 minutes, 20 secondsslightly tangeny related to their topic. So a lot of the the traffic that they were getting the
+39:2839 minutes, 28 secondstop of the funeral uh were realistically for very likely off topics from what
+39:3539 minutes, 35 secondsthey were offering that was a little bit of more software related and and and then they lost a lot of this traffic in
+39:4339 minutes, 43 secondsone of this updates that Google finally ended up tweaking a little bit their their signals to well make sure that
+39:5139 minutes, 51 secondsthis on brand that subject matter expertise is actually uh makes a little bit of of of a bigger role in there. So,
+39:5939 minutes, 59 secondsa lot and a lot of people said like,
+40:0140 minutes, 1 second"Oh, they they lost one quarter of their traffic or something like that." But yes, I was like, "Yes, it's true." But
+40:0740 minutes, 7 secondstake a look at which were the the the pages that dropped a lot. And yes,
+40:1440 minutes, 14 secondsliterally we're bringing one quarter of their traffic like literally five pieces of for very broad terms that honestly at
+40:2240 minutes, 22 secondsthat scale um I I wonder how many of this visits ended up converting but were
+40:3040 minutes, 30 secondsnot their core areas of expertise or core uh solution pages or meaningful from a business standpoint. and and 100%
+40:4140 minutes, 41 secondsthis is the type of content that you will end up creating without thinking on personas or unique selling proposition
+40:4740 minutes, 47 secondsor your actual uh brand or you nothing right and and that is why I 100% I
+40:5440 minutes, 54 secondsbelieve that there has never been a better moment like today in which like yes you need to be very talkful on what
+41:0241 minutes, 2 secondsyou write about to make sure that it actually makes sense not only today but in the future and resist across all of
+41:0841 minutes, 8 secondsand and what using personas and using your um well it's your journey selling
+41:1441 minutes, 14 secondsproposition and and and uh the the brand values and etc etc makes complete sense
+41:2241 minutes, 22 secondsand this is how we should be able to prioritize beyond any metric. So you you mentioned regarding the search volume of
+41:3041 minutes, 30 secondsSEO tools, we can extrapolate now that with the top prompts examples that a few um AI trackers provide. By all means,
+41:4241 minutes, 42 secondsthese are good to take as a reference,
+41:4541 minutes, 45 secondsas an input, as examples of of and samples of what users might be
+41:5341 minutes, 53 secondsasking there regarding your topic. But it is a mistake to start obsessing on
+42:0142 minutes, 1 secondbut very few prompts to try to get into them just because of how personalized the answers are on one hand and um how
+42:1042 minutes, 10 secondslong tail they really are. So if these are even actual prompts, let's assume they are. They are not automatically
+42:1842 minutes, 18 secondsgenerated. They are, but imagine all of the different wordings that there are there like very few scenarios, the same problem will be asked twice.
+42:2842 minutes, 28 secondsAnd and even if it it is asked twice,
+42:3142 minutes, 31 secondsthe answers will defer quite a bit just because of the personalization of the user context, the location, previous
+42:3942 minutes, 39 secondshistory, behavior, etc., et etc. So rather than obsessing on specific prompts that might have x or y value, we
+42:4742 minutes, 47 secondsshould think about the topics that actually make sense for us to go for to get visibility for independently on the wording, right? And yes, have a few
+42:5442 minutes, 54 secondsprompts to assess a little bit and ditch how we are doing but not obsessing about ranking or being included or being
+43:0243 minutes, 2 secondsshowcasing specific uh in in a few specific one of them. Yeah, it's you hit on so much like the idea.
+43:1143 minutes, 11 secondsI'm sure there's some SEOs who have trauma of being asked what keyword is ranking where at any given moment, but I think what you hit on is the maturity of
+43:1943 minutes, 19 secondsof the SEOs is push back and say the content we create should be aligned with all of our marketing efforts. It should be positioned the same way. What I find
+43:2843 minutes, 28 secondsinteresting just to kind of take another point that you were talking about was this idea of LLM prompts and data. Um, I
+43:3643 minutes, 36 secondsbuilt myself like a little uh LLM analysis tool back in February of this year. Uh, for a hot second, I thought,
+43:4443 minutes, 44 seconds"Oh, maybe this would be useful publicly." But I have all kinds of reasons why I didn't do that. But what I found most interesting was just like the
+43:5443 minutes, 54 secondsidea of getting into these prompts. Like there's a moment in time when you're like, I know the first 20 prompts I want, but what about the next 100
+44:0044 minutesprompts or the next thousand? And I've long said this uh for content marketing,
+44:0644 minutes, 6 secondsbut context is king, not content. And I think if you understand the user's context, then you have the ability to
+44:1444 minutes, 14 secondsactually connect in with them and then earn that positioning opportunity in terms of a content.
+44:2044 minutes, 20 secondsOne of the things I noticed working with my own clients is this prompt obsession.
+44:2544 minutes, 25 secondsWe want to know what prompts should we track and what prompts really matter.
+44:2844 minutes, 28 secondsBut I think that there's there's two ways to look at this as you mentioned like the prompt trackers. They provide us a layer of of good data and I think we should pay attention to that data.
+44:3844 minutes, 38 secondsBut then there's that other intuitive sense that we all have. I use whisper which is like a voicetoext
+44:4544 minutes, 45 secondsuh app and I talk to chat GPT or claude all the time. My prompts never follow a structure and there's all kinds of weirdness in them but I get good
+44:5344 minutes, 53 secondsrecommendations. I bought many products off of them. How how do you see us getting into a mature state with prompting that we're working with
+Chapter 8: How Topic Level Analysis Shapes AI Search Strategy
+45:0245 minutes, 2 secondsstakeholders outside of SEO? Because this is sometimes our challenge, right,
+45:0545 minutes, 5 secondsis translating uh the keyword volume into well actually this isn't tactics,
+45:1045 minutes, 10 secondsthis is strategy. How do you approach that? How do you approach like this idea of building a topical map for instance around prompts uh that might be used by customers and LLMs?
+45:2145 minutes, 21 secondsSo there are now tools that thankfully provide more context uh around that and they aggregate prompts per topic. So
+45:2945 minutes, 29 secondsthere's definitely that I am happy to see that. So and and what I what I think about is is topics rather than prom and
+45:3745 minutes, 37 secondsthink about which are the different topics um and brands names in case I am a retailer for example and I provide and
+45:4645 minutes, 46 secondsuh and I sell uh quite a few product lines and brands like that are important for me and and I want to be known for
+45:5545 minutes, 55 secondsright um and and I go to these tools thankfully for for example a few tools that you enter the
+46:0346 minutes, 3 secondstopic or the term and it will provide which are the the top brands and the
+46:1146 minutes, 11 secondstopics and and then of course very long tail list of of of problems examples that they are taking into
+46:1946 minutes, 19 secondsaccount but I start gauging that rather than oh the generic visibility for whatever no visibility within these context of these topics. So an example,
+46:2846 minutes, 28 secondsif I have a sport retailer, I want to see what is my visibility for each of the top product lines that I sell. So uh
+46:3646 minutes, 36 secondswhat is my visibility for uh women's sneakers or or men's um
+46:4346 minutes, 43 secondsum jackets or or or children um golf um swah things like that, right?
+46:5546 minutes, 55 secondsand and I will start validating my visibility of my brand versus my competitors and which are my competitors and how they are being cited and which
+47:0447 minutes, 4 secondsare their citations and so and take it from there. So this is what I will do. I won't even obsess about brand but I will start start checking on the topic and
+47:1347 minutes, 13 secondsand my share of voice and my visibility and and and the sentiment uh of my brand versus my competitors for them. Then of
+47:2147 minutes, 21 secondscourse what I will tend to do to track over time is to take quite a few of those prompts that uh I see are are
+47:3047 minutes, 30 secondsbeing shown in for each one of those topics as a as a reference and and start tracking them to see how it shifts over
+47:3747 minutes, 37 secondstime but within that context right understanding that um to to better understand how how evolves over time but
+47:4547 minutes, 45 secondsnot to obsess about oh I need to be included in these ones because otherwise it means that I fail. No, my my objective is to track the evolution over
+47:5447 minutes, 54 secondstime within this particular context and and topic and area of expertise versus these other brands or how many times also my brands are mentioned versus and
+48:0348 minutes, 3 secondsand the the the the the sentiment of the brand versus this other brands for this particular uh subject or
+48:1248 minutes, 12 secondsarea. uh that rather than trying to let's say uh going for specific prompts
+48:1948 minutes, 19 secondsthat are too granular this they are too granular on one hand or then just trying to compare brands in a generic way. So
+48:2948 minutes, 29 secondsif an example right like there there are brands like Adidas for example they provide and not only shoes but also all
+48:3648 minutes, 36 secondstype of of sportsware right so and if you only compete on shoes I mean you only provide shoes why do you want to
+48:4548 minutes, 45 secondsgauge yourself for everything Adidas no you want to gauge your or assess yourself for only the sneakers uh
+48:5448 minutes, 54 secondsparticular vertical versus Adidas right and that that is how I start assessing and configuring it. Um thankfully there
+49:0249 minutes, 2 secondsare more and more tools out there that allows you to do that rather than starting from prompts.
+Chapter 9: LLM Search Console Reporting Expectations
+49:0849 minutes, 8 secondsSo one thing that we we we haven't asked yet but you've hinted at and I've seen you uh publicly uh talk about was the
+49:1449 minutes, 14 secondsidea of getting a chatbt search console or a claw search console perplexity search console. You know we we also
+49:2349 minutes, 23 secondstalked about just like the transparency of Google. you know, SEOs have been reverse engineering the algorithm since the birth of it.
+49:3049 minutes, 30 secondsDo you do you have hopes that we will see these types of consoles come out for these LLMs? Uh that we'll be more
+49:3849 minutes, 38 secondstransparent in this future or do you think we'll probably still follow the same direction? What what is your read on it?
+49:4449 minutes, 44 secondsI believe that they will come but once that the market is more settled and they are able to show more proof of their value. I believe that they they they are
+49:5249 minutes, 52 secondsnot there yet because um maybe they are not referring necessarily that much of a traffic yet and the traffic is staying
+50:0150 minutes, 1 secondwithin them. I don't know. Maybe possibly um maybe that that traffic won't make them look as good, right? And
+50:0850 minutes, 8 secondswe know that there are a lot of this not only debates but even uh trials in the US and suits already going on and
+50:1750 minutes, 17 secondsit's not in their benefit. Um but I think that eventually they should especially if these channels whenever
+50:2450 minutes, 24 secondsthese channels start selling uh ads consistently across these new surfaces
+50:3250 minutes, 32 secondsthat that that should be like the tipping point like the
+50:3950 minutes, 39 secondsthe the actually ends up making the difference I believe because they will need to give more more data for that and potentially that is how we are going to get access also.
+50:5050 minutes, 50 secondswith the chat GPT with the shopping integration I expect that they provide more in terms of metrics and
+50:5850 minutes, 58 secondsvisibility and performance at least of those players that integrate right so yes I think that it will it is a matter of time but they it should come
+51:0751 minutes, 7 secondswe got two last questions for you uh Leia this has been super fun uh I wanted to end on this like positive note about the space there's a lot of folks that
+Chapter 10: Why LLM Search Rewards Brands With Real Community Signals
+51:1651 minutes, 16 secondshope that you know advanced AI search or is finally going to reward genuinely insightful expert content over the kind
+51:2351 minutes, 23 secondsof generic SEO driven listicles that we kind of talked about that have dominated a lot of the past. Um, in other words,
+51:3051 minutes, 30 secondslike a boutique blog with not a lot of traffic but deep expertise could outrank high volume content mills if the content
+51:3851 minutes, 38 secondstruly educates or solves a problem. Do you share this optimism that LLM powered surge could elevate quality over
+51:4651 minutes, 46 secondsquantity? What signs, if any, have you seen that AI search might actually rank or recommend content differently? Oh, this is this is already happening.
+51:5351 minutes, 53 secondsThat is already happening. I mean I I I am seeing those players that you see around saying oh all of the sudden um my
+52:0352 minutes, 3 secondsbrand my startup started to get cited in CHBT and um it is now my biggest traffic
+52:1252 minutes, 12 secondsdriver and I have made 90% of my clients or my customers from it in the in the
+52:2152 minutes, 21 secondslast six months is because these are startups that were not really investing much or haven't been hadn't been able to
+52:2852 minutes, 28 secondsdo much in SEO because they were just starting a year ago or a year and a half ago and they had already a little bit of
+52:3652 minutes, 36 secondscommunity going on and mentions in YouTube and and mention in in social platforms etc. But they didn't had
+52:4452 minutes, 44 secondspowerful backlinks yet from authoritative sources. they didn't have a proper taxonomy targeting to all of
+52:5152 minutes, 51 secondsthe different queries uh that were commercially relevant for them for which
+52:5852 minutes, 58 secondsthey needed landing pages or pages or PLPS PDPs or whatever that were properly
+53:0553 minutes, 5 secondsstructured and optimized uh with good internal linking etc etc and they didn't
+53:1253 minutes, 12 secondsget but then all of a sudden they started to get all of this leads because they were positively cited in this very
+53:2053 minutes, 20 secondspositive light for very this very hot topic in LLM and of course if they had been players that they would have been doing already
+53:2953 minutes, 29 secondsSEO for five years ago the share of these mentions will have been like potentially 5%
+53:3553 minutes, 35 secondsof their revenue or customers but because they are quite new they already seeing the fruits of the little mentions
+53:4253 minutes, 42 secondsthe little visibility because they have been doing like good actual product marketing uh for their customers base
+53:4953 minutes, 49 secondsand that end up paying off like this. So I think that we have already seen that and I expect that this
+53:5753 minutes, 57 secondsum grows over time that the the the also the the it's not a zero sum game as well because
+54:0554 minutes, 5 secondswe know that behavior is shifting and there are also new searches, new topics,
+54:1054 minutes, 10 secondsnew hot trends going on all the time. So yeah, this only continued to to grow over time. I love it. Alita, last question for you.
+Chapter 11: Prioritizing Work That Matches Personal Purpose
+54:1854 minutes, 18 secondsYou're an SEO consultant, obviously frequent speaker. I have a traveler, uh the SEO FOMO author for the newsletter.
+54:2454 minutes, 24 secondsYou're also a founder and a meetup organizer. You're also a paddle tennis player. You were telling us before we started recording, you got a ton of stuff going on in your life. One
+54:3254 minutes, 32 secondsquestion we ask everyone on the show is how do you decide what deserves your energy at any given moment? And what's your personal system for staying aligned with what actually makes you happy?
+54:4354 minutes, 43 secondsWell, I I believe that it all has to do with independence and purpose, right?
+54:4854 minutes, 48 secondsSo, what gives me independent not only um well monetary or financial or or what
+54:5654 minutes, 56 secondsactually matters more for me to be able to do what I like to do. Uh and I really like to do SEO. I really like to talk
+55:0455 minutes, 4 secondswith customers. That is why I don't have like the big agency or huge agency but uh um boutique consultancy because I still in touch with client advise them.
+55:1355 minutes, 13 secondsSo I I try to design my work and prioritize my projects accordingly. I enjoy talking uh with people and
+55:2155 minutes, 21 secondsinteracting with people in the community and I work remotely so I have a lot of flexibility also to to well the events that I go and and I engage with etc etc.
+55:3155 minutes, 31 secondsUm, and the same a little bit with with sports, right? Historically, I haven't I haven't been the most sporty person in
+55:4055 minutes, 40 secondsthe world, but I understand and I know that it's it's important to keep fit, to
+55:4655 minutes, 46 secondsbe healthy as well, right? So, I I I had to pick uh activities that align a little bit with my preferences and I wouldn't get bored at like for example,
+55:5855 minutes, 58 secondsgoing to the gym for me is not necessarily incentivizing. I I jump rope uh at home uh which is like very complete sort of uh exercise that I can
+56:0656 minutes, 6 secondsdo anywhere and then with paddle is a very social sport as well. It helps a little bit also with uh to keep yourself
+56:1556 minutes, 15 secondsuh engaged with with others in the community and it's it's super fun as well. So I try to blend a little bit uh
+56:2456 minutes, 24 secondsmy lifestyle and what I enjoy and what what has impact and I uh and is align
+56:3156 minutes, 31 secondswith my goals and preferences not only uh business and professional wise but also at a personal space.
+56:3856 minutes, 38 secondsI love it. Elena, thank you so much for sharing that. Thanks so much for your time today. Um got a few minutes left to plug some stuff if you want. We're going to share links to the newsletter, some
+56:4756 minutes, 47 secondsof the meetups that are coming up for you, but uh this episode is dropping early in 2026. So, feel free to plug whatever you want.
+56:5356 minutes, 53 secondsOh, thank you very much for the opportunity. I have a few resources that I have created for free that I believe that can be quite helpful for for all of
+57:0157 minutes, 1 secondthose who want to uh keep up with AI search. I have uh learning.com which is a completely free uh website uh
+57:1157 minutes, 11 secondswhere I aggregate reliable resources to learn or to execute uh some of the top activities in AI search. H it's like a
+57:1957 minutes, 19 secondslittle bit the the counterpart of learning aio learning seo.io that I created like a few years ago. Uh so on
+57:2657 minutes, 26 secondsone hand learning.com on the other hand if you want to keep up with the latest in AI search as well as
+57:3457 minutes, 34 secondsSEO I have um seopo uh this is my main newsletter almost 40k subscribers which
+57:4357 minutes, 43 secondsI expect to reach uh in a couple of weeks already. Uh and then I have uh aimarketers uh.com which is my other
+57:5357 minutes, 53 secondsnewsletter as well which I cover everything like the top news top trends in AI marketing as well that might be also useful and and relevant for you to
+58:0258 minutes, 2 secondscheck out uh both completely free of course and yeah I try to do my best to
+58:0958 minutes, 9 secondsonly pick what is actually reliable and is worthy.
+58:1458 minutes, 14 secondsAwesome. I I was going to list all of those except AIMarketers.com.
+58:1858 minutes, 18 secondsUh that's a new one for me, so I will be checking that out for sure. Thank you so much for everything you do for this space, Ela. Really appreciate your time today. This is super fun.
+58:2758 minutes, 27 secondsThank you for the opportunity.
+

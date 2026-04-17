@@ -1,0 +1,8 @@
+Subject: The Koray Framework and Topical Authority
+Source: Koray Tuğberk GÜBÜR (LinkedIn/Holistic SEO)
+Key Insight: Rank Topics, Not Keywords. To survive AI search, a site must cover every semantic variation of a niche (Topical Coverage) to build a history of reliability (Historical Data).
+Core Formulas for the Playbook:
+​Topical Authority = Topical Coverage + Historical Data. You must map out all sub-topics before writing a single word.
+​Cost of Retrieval: Structure your content so it is "machine-first." This means using clear semantic hierarchies and entity connections that an AI can parse in milliseconds.
+​Algorithmic Authorship: Use specific word sequences and factual certainty. Avoid "fluff" or opinion-based filler that complicates the AI's understanding.
+Takeaway: If your site has a "low cost of retrieval," it has a much higher chance of being the primary source cited in Google AI Overviews and Perplexity.

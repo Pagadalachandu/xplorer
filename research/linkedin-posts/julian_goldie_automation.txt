@@ -1,0 +1,9 @@
+Subject: Multi-Engine Domination Framework
+Source: Julian Goldie (LinkedIn/Social)
+Key Insight: SEO in 2026 is about "Fragmented Search." You shouldn't just optimize for Google; you must optimize for AI search engines like Perplexity, Claude, and ChatGPT citations.
+The "4-Step Content Machine":
+​Claude for high-quality scripts.
+​HeyGen/AI Avatars for video production.
+​ElevenLabs for voice cloning.
+​Distribution: Repurposing one core video into 50+ pieces of content across Reddit, YouTube, and Newsletters.
+Takeaway: Speed of execution is the new moat. Use AI to build a "brand presence" everywhere so that LLMs learn to cite you as the primary authority.

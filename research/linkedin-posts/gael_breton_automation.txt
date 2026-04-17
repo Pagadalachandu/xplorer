@@ -1,0 +1,8 @@
+Subject: Deterministic Workflows and AI Agents
+Source: Gael Breton (LinkedIn/Authority Hacker)
+Key Insight: Most people fail with AI because they use it for "tasks" (writing an intro). Winners use AI for "projects" (building a full topical map).
+The "Authority Site Survival" Strategy:
+​Visual Content Moat: Since AI can easily write 3,000 words, make your content look like a "comic book" with original screenshots, custom charts, and unique data.
+​The "One-Shot" App: Use tools like Claude to build internal tools (custom SEO graders or calculators) that provide unique value AI search engines will cite.
+​Deterministic Results: Move away from unpredictable chat prompts. Build systems where AI is part of a fixed chain (e.g., Extract Competitor Data -> Deduplicate Keywords -> Map Intent).
+Takeaway: Don't just publish AI content. Use AI to build features and data that make your website a utility, not just a blog.

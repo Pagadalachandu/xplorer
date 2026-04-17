@@ -1,0 +1,177 @@
+How SEO is changing with AI
+So, the last few months I've been just
+obsessing over AI and SEO and everything
+that's going on right now because so
+much is changing. Everybody's scrambling
+trying to figure out where's this going,
+what's actually working, how to get
+mentioned on LLMs like Chat GPT, but I
+want to break this down so you know
+everything that you need to know moving
+forward. So, to make this video easy,
+I've broken this down into five key
+ideas. If you understand these, you're
+going to be just fine. Number one,
+How AI is affecting Google
+Google is still by far the most popular
+search engine. So don't let anybody
+convince you that all of the sudden
+everybody's going to chat GPT to find a
+dentist because that's just not the
+case. Now, with that said, things are
+definitely changing in the world of SEO,
+probably more so than ever before.
+People are using these different LLMs to
+ask questions, get information, and in
+some cases to find a business. So, we
+definitely need to be aware of that. And
+I'm going to talk about what that means
+for your SEO strategy here in a second.
+How will AI affect my business SEO?
+The second thing you need to understand
+is this is absolutely a positive change
+for good businesses. The purpose of AI
+is just to be a more accurate search
+engine. So, it's going to be quicker and
+more accurate at recommending good
+businesses. It's no longer just going to
+be about keywords and backlinks. These
+AI models are going to accurately
+measure and judge all the different
+brands across the web and then give the
+results that best fit the prompt. So if
+you're a good business, if you do good
+work, if you have a good reputation and
+if you truly are the best fit for that
+person, you're going to get recommended.
+The reason I'm excited about this is I
+don't think people are going to be able
+to gain the system anymore. There's no
+longer this paytoplay element where
+people can just buy a ton of backlinks
+and outrank everybody else. If you are a
+quality business and truly the best fit,
+you're going to get suggested. Number
+How do you rank on LLMs?
+three, the basics still win. Quality,
+authority, keywords, content, and
+reputation are still the main factors
+that determine your ranking and
+exposure. Search engines like Google
+have always been highly motivated to
+serve up the best results for whatever
+is being searched. If it doesn't give
+good results, people would cease to use
+those search engines. And AI is exactly
+the same way. if it's not giving the
+correct information or giving good
+suggestions, people just wouldn't use
+it. And with how quickly AI is evolving,
+it's going to get to the point where it
+gives the perfect answer, the perfect
+solution. But if you really think about
+it, there's no better way to determine
+what business to recommend other than
+those basics. These are the natural
+signals that have worked in the past to
+rank a business, and they're going to
+work in the future. The way that search
+engines and AI go about finding a good
+business is the exact same way that you
+or I would go about finding a good
+friend. Are they a quality human? Are
+they trustworthy? Do you connect and
+agree with what they say? And do they
+have a good reputation? It's the way we
+judge people and it's the way that we
+judge businesses. And I don't see that
+changing. There's there's really no
+better way. So, as long as you get those
+basics right, it's highly likely that
+you're going to get mentioned in these
+AI chats. All right. Number four, there
+How to hack AI SEO
+are hacks and shortcuts, but like all of
+the other SEO hacks before, they're
+going to get nerfed. Right now, SEO
+experts across the web are looking for
+ways to cheat the system to boost their
+rankings the easiest way possible. Now,
+that's just part of SEO. So, feel free
+to pursue and exploit those different
+hacks as you find them. But be aware
+that at the end of the day, the only
+things that are tried and true and
+always will be are those basics. So,
+don't feel overwhelmed or feel like
+you're being left behind because
+somebody else found a way to spam Reddit
+and get their business mentioned in chat
+GPT because a lot of those things are
+already getting fixed. So, in the grand
+scheme of things, those really are just
+shiny objects. So, you can pursue them,
+but don't make them your whole strategy.
+The best tools for AI SEO
+Now, the fifth and final and probably
+most important point of this video is
+something that has always been true in
+SEO and always will be true moving
+forward, and that is the tools are
+everything. If you want to be successful
+at SEO, you need to use the right tools.
+You can scrape all the data you want
+manually and run as many searches and
+prompts as you want, but you will barely
+scratch the surface of understanding
+your brand visibility and your rankings
+unless you use the right SEO tools. Now,
+this is easy for me to say because I've
+built my own SEO tools, but even my team
+internally, we use multiple different
+SEO tools for basic SEO and for AEO or
+AI SEO. There's no reason for you to try
+to do this manually or even with just
+one tool because there is so much data
+out there and these tools today make it
+so easy to visualize and understand that
+data and then know exactly what you need
+to do to increase your visibility. Now
+the SEO tool that we've been building,
+clicks.so is a basic keyword research
+and analytics tool. But we've pretty
+much dropped everything that we're
+working on within the tool to focus on
+our new AI features because we know that
+not only is it trending right now, but
+it's going to be so important for the
+future. The way this tool works is so
+cool. You can track your prompts. You
+can see your visibility and sentiment
+scores across all the different LLMs.
+And it's going to make it so much easier
+for you to track when your brand is
+getting mentioned, not only on search
+engines, but also on all these different
+AI chats. So, all of this is going to be
+ready to launch probably in the next
+week or two, but we really need beta
+testers to dive in, use the tools, see
+how it works, give feedback. So, if this
+is something that you would like to try,
+all you need to do is go join the wait
+list at clicks.so/ai.
+Once you're on that wait list, we'll
+shoot you a message right when the beta
+version becomes available so you can
+dive in and start tracking your prompts
+and your visibility. This is going to be
+such a cool tool. I'm so excited to use
+it for all of our clients and I'm
+excited to share it with all of you. So,
+if you have any questions about SEO or
+AEO or anything else that we've talked
+about in this video, drop it down in the
+comments. Thanks for watching this video
+and we'll catch you in the next
+

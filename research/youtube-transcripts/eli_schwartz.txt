@@ -1,0 +1,33 @@
+Hi, my name is Eli Schwartz, and I'm an SEO expert and consultant.
+I've collaborated with brands like SurveyMonkey, WordPress, and Quora.
+I've also published the book, "Product-Led SEO,"
+which has been recommended
+by some of the most well-known business leaders.
+Whether it is on Google or social media, everyone searches.
+The first time I saw a website that showed
+what people were looking for, I became totally hooked.
+SEO is a process of following search engine best practices
+to stay visible and improve your digital performance.
+Positioning your business among the top ten search results
+so that any customer can find you as quickly as possible
+is not just about analyzing algorithms.
+It's about understanding users and presenting
+the value of your business with a tailored plan of action.
+In this Domestika course,
+you will learn how to build an SEO strategy
+for any business, large or small.
+For the final project, you will develop a content plan
+and make a report of the progress of your chosen website.
+Let's start with some background of SEO,
+what it is, why you need it, who your customer is,
+and what type of content you can develop.
+Next, we'll implement technical requirements to create our site.
+We will write the content, publish, and then wait for users to come
+so we can analyze the traffic and plan our optimizations.
+To wrap things up, we'll go over some best practices for the future.
+By the end of this course, you'll have a strong SEO foundation
+to help lead you to success.
+You should have access to a website, Google Search Console,
+and Google Analytics.
+Demystify SEO and develop your own strategies for search success.
+

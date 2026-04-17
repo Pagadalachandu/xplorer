@@ -1,0 +1,829 @@
+introduction to SEO Chat
+hello my name is corey tubercuber and i
+am the owner and founder of holistic seo
+and digital in this video i will try to
+summarize the seo chat that i have
+created on twitter with dear more the
+oberstein and i want to turn this thing
+into a kind of useful memoir or memory
+for all of us i have asked actually 17
+questions and i have created a couple of
+polls just for search engine
+optimization and it they are a little
+bit relevant to the anchor tags some of
+them are relevant to the semantics some
+of them are relevant to the actual how
+the search engine uses different ranking
+models like predictive ranking
+or relative ranking and what actually
+ranked lab is
+so let's start this was the initial
+announcement there and rank lab is
+actually a kind of internal term from
+google
+basically it represents the platform
+that google engineers use for generating
+or creating
+ranking algorithms and in google they
+have actual different
+teams for instance they have a team just
+for understanding the fake traffic or
+fake clicks they have a team just for
+understanding
+uh
+for instance just for the birth they had
+a team that is called
+deep rank or deep ranked team they also
+have different teams that change their
+members and i believe they have their
+little bit autonomous at the same time
+for instance google rank brain team
+which is an
+a kind of
+open team to be honest and in this case
+they change their team members but the
+term ranked lab it always stays there is
+one googler that you should check
+actually he's not famous at all i guess
+it was alex gurushetsky
+he is actually one of the first and
+google engineers that mentions the
+ranked lab as an internal thing and they
+have different internal terms for
+instance we say features in the path
+they say web answers we say keyword they
+RankLab Definition
+say query we say
+searching something they say query
+session so their terms actually helped
+me a little bit understand the search
+engine further
+so to keep it a bit shorter let's start
+just
+focusing on the things and this is a
+kind of just a simple section
+for
+checking the
+answers and here we have
+the first question the first question
+says what is the difference between
+query dependent and query independent
+Google Internal Terms
+ranking criteria so in search engine
+ranking algorithms actually in in the
+website the website that belongs to me
+Difference of Query-Dependent and Independent Ranking Criteria
+and sorry for the open tabs
+and i don't fix this website on purpose
+by the way you all know that if you
+check this article you will see that
+everything actually here focus on
+initial ranking and rare ranking and i
+believe from different places you will
+see these terms more because most of the
+time the seo industry has a tendency to
+a little bit take things and to not
+create it other places but i can tell
+you that this is one of the first places
+that you will see
+these terms and initial ranking and
+ranking and in a big chunk of this
+article i just explain what
+information for aging theory and then i
+explain what are the possible ranking
+algorithms and what kind of concepts
+they can actually use how they can
+relate things to each other and what
+kind of algorithms can be used so in
+this case the query dependent and query
+independent ranking criteria means that
+some algorithms just focus on the terms
+and turn weight calculation within the
+query some of them just focus on the
+query independent criterias and here we
+have the answer query independent and
+query dependent and independent ranking
+criteria are fundamentals for ranking
+algorithms a document can be relevant
+for a query but a query independent
+factors can make it eliminated
+information red level score can be a
+factor for query dependent ranking and
+page rank can be a query independent
+factor
+so let's move on to the second question
+because i want to actually popularize
+these questions and answers even further
+so here we have another one if the query
+is protein powder and this example
+usually comes from matigde and he he
+also made me remember this example all
+Process the Query "Protein Powder"
+the time i guess
+creating powder which one will have more
+weight query dependent or query
+independent ranking factor
+so to be able to use the query dependent
+factors you need a kind of high
+information retrieval score or you need
+a high information extraction
+responsiveness so there is no such a
+thing information extraction c core
+that's why it should be called as
+responsiveness because a query might be
+relevant to a document but it doesn't
+mean that the document is actually
+responsive so that
+query or need behind the query so in
+this case the protein powder actually
+the query independent ranking criteria
+will be more important because we have
+enough level of information and document
+from all the competitors so based on
+relative ranking actually all the weight
+of the these algorithms will need to
+change and if you want to create a kind
+of seo strategy just based on the data
+science you will need to use
+these predictive ranking
+understanding and that's why actually
+here somewhere i actually mention it too
+predictive ranking we will try to
+understand what are the possible ranking
+points
+and here is the answer answer is related
+to relative ranking in the inverted
+index it means that an index that are
+the documents are already ranked and
+ordered the most quality document and
+less quality document will have
+different types of scores
+thresholds are determined relatively
+based on threshold sources threshold
+source means that the highest quality
+and highest relevant or highest page
+rank document based on that we will
+create create different thresholds for
+protein powder the queried independent
+factors will have more weight the search
+intents are ordered as
+buying it or finding reviews or finding
+brand reviews compared protein powders
+or how to use protein powders what are
+the protein powders this is the last one
+so based on that you all know that
+actually you can create different
+topical maps as well
+What is Query Processing?
+speaking of
+i guess you all
+opened this video in the hop of the
+course
+at the moment actually i have a kind of
+internet connection error
+mistake or slowness just because i'm
+uploading the course videos it takes
+time people it it there are more than 50
+gigabytes of videos there for 40 hours
+and
+even it is hard and at the moment i also
+work on some payment gateways so it's
+coming don't worry
+and what is query processing
+what is process query does a search
+engine rewrite queries does it generate
+questions from queries in affiliate lab
+i have created one lecture uh
+for also
+matt
+and here actually i have processed the
+term process query as well you can check
+that and actually here the we have 34
+volts and people say that yes search
+engines change the queries so it's good
+to know that actually the community
+already knows that and they always
+try to adjust the relevance by zone that
+is a happiness for me to see so let's
+dive in a little bit concepts together
+query processing is the parsing of the
+query for calculating the term weights
+for possible search intents and
+activities after intent process query is
+the query queries rewritten and
+optimized versions the process query can
+be questioned the search intents for
+protein powder is
+its process version which are mentioned
+here
+so in this case we also need to talk to
+think about the query writing
+methodologies and also inferring queries
+inferring entity attributes from
+queries query definitions query aspects
+and there are the many many different
+terms and concepts even from the
+patterns and these are important
+patterns because all the engineers and
+inventors from
+just the query processing they are
+already being used
+and here we have another one for query x
+Process the "X Stadium" Query Template
+stadium which serp features will you
+think to appear more local map pack
+image images people also extremes
+team score results news etc i have put
+four results here and it's interesting
+that
+seos are also
+hyped so quickly they didn't know what
+has chosen the google business profile
+there might be two reasons for that this
+is the new name of the google
+my business account
+and the thing here is when you search
+for x-station you won't see a local map
+pack there because there are no two or
+three different stadiums with the same
+name it means that
+they will be actually the same
+so in this case there won't be a local
+map pack if you would search for
+x-station stores then you would get the
+local map pack that's why for malls we
+have local map pack if you have a kind
+of mall around the stadium or if you
+have a kind of mall
+around
+not around not in the stadium then yes
+you can see it but most of the time you
+will see a business profile panel you
+might see a knowledge panel you will
+definitely see a mesh pack
+so
+50 nearly off the answer here is wrong
+and you can also check it from other
+search tools as well let's re-transfer
+the features are relevant to the search
+internet distribution which is also
+relevant to the distributional semantics
+we will process it in the course for
+x-station query template with popularity
+order entity relation refinement
+knowledge panel gbb panel image pack paa
+or people ask video pack and web results
+actually this will be the order there
+and
+also
+when i say video pack i don't mean the
+video carousel there will be a kind of
+most probably just for the youtube a
+kind of
+expandable area with
+time steps
+and still relational refinement means
+Major and Minor Search Intent Differences
+that the stadium will be connected to a
+team and it will be seen in the top of
+the serp page or sorry serp
+so how would you rank major and minor
+search in terms for the query of home
+renovation i have asked it to the
+community do it yourself or find a
+service 60 person says that it's
+actually do it yourself uh will be the
+major one and here we have home
+renovation is a service seeking query
+for the non-renovation non-renovation is
+the query template here you can change
+the home with something else to
+understand the major search intent for
+home renovation you need to replace the
+home and you need to understand others
+it's about lexical semantics in this
+context so in the course there are more
+than 15 hours of theoretical education
+it won't be easy people if you if you
+are bored while even listening this
+probably you will die in the course so
+sorry for saying that but seo is not
+that easy and you need to understand the
+search engine and it requires too much
+reading
+or thinking
+so in the course of course there are
+more than 25 hours of practical lectures
+too but they are connected to each other
+so if you know these concepts major or
+minor search intents with concrete
+definitions and examples it will help
+you
+so here we have the rest of the answer
+major search intents find an x-ray
+renovation service near me i say that
+it's major because we actually see that
+local map pack appear there directly
+review x renovation services how do i
+What is Semantic Distinctiveness?
+run away at x and calls and usually do
+it yourself section comes from videos
+minor search intents is renovation
+definition differences verses so these
+will be
+these will exist a little bit in maybe
+in the auto suggestions or maybe some
+query refinement areas or maybe they
+will appear after third or fourth
+search
+what is semantic distance between two
+queries okay this is an entirely big
+topic i won't be able to explain
+everything less retentive semantic
+distinct distinctiveness and similarity
+are different armor can be semantically
+relevant but different from the sword
+the distance between two queries
+represents how the how the documents
+need to be shaped semantic distance
+between queries is determined by edges
+and nodes between concepts in a graph
+network so graph theory and semantic as
+your semantic networks they are relevant
+and to be able to understand the
+semantic distance between two things you
+need to understand lexical semantics
+like hypernames hyponyms hypernym member
+to be able to understand that
+you can actually check
+one of the articles
+here not to tokenize not tense
+recognition
+the one
+for
+wordnet
+yep
+i guess i couldn't find it but one i
+have four different nltk choirs here if
+you check the one for just vertnet you
+will be able to see
+relevant sections here and for here for
+tokenization i actually use my entire
+website
+you can see
+results in a in a way here
+in a way that you want for instance
+these are the most used words including
+stop bursts then we have most used words
+without stop verse and we have used
+most you we have the adjectives that are
+that are used most etc etc
+try to check these things it might help
+you
+so what is the difference between query
+What are Query and Lexical Semantics?
+and lexical semantics query semantics
+rely on query code occurrence and
+correlation along with
+interchangeability substitute query is
+relevant to this section the lexical
+semantics rely on dictionary meanings
+the query can have a different different
+meaning than a dictionary definition two
+words can be irrelevant but they can
+appear in queries together with no
+concrete reason and that's why we also
+need the definition of correlated
+queries at the same time and google
+correlate it was an old tool that google
+remote that's why it was important
+due to the time deficiency i am not able
+to explain everything here but in the
+course you will find everything with
+practical examples but basically query
+and lexical semantics are two way
+different and query semantics are more
+important than lexical surroundings for
+seo because you will need to know how to
+how to create topical borders and you
+need to understand when you should stop
+that section without going deeper
+can an seo change what a search engine
+thinks about a concept
+can we register non-existing things into
+their knowledge base can we change
+brand's relevance to a concept with a
+positive sentiment this section is
+actually about jason bernard directly
+and if you don't follow jason just
+follow him you'll be lucky actually his
+book
+is just here it just came yesterday i
+didn't start yet but just read it i
+Can a search engine learn new things?
+believe you will like that
+so i said yes tree yes multiply with
+three
+a search engine learns always on it can
+change opinions or recognize something
+new without search demand documents are
+collected and classified even if someone
+doesn't search it still they can
+continue to learn
+a brand can make a knowledge domain more
+expanded it can affect all other brands
+topical authority and categorical
+quality
+categorical quality is something else it
+comes from tristan abstil we can mention
+it later
+predictive document ranking how to
+determine page frame needs per web page
+how many declarations are necessary to
+create enough information gaps how many
+pages should change for a rare ranking
+event so if you don't want to understand
+how to trigger a ranking event let's say
+google doesn't rank your website let's
+say they don't index the pages that you
+want just trigger a re-evaluation and to
+be able to do that
+there are some certain methods that we
+can mention later but if you read that
+30 000
+words of article or book it's actually a
+book i don't put things into maybe
+bookstores but actually most of the
+articles that i write they are already
+books so just try to check that article
+is free maybe that's why you don't read
+because it's free i don't know but if
+What is Predictive Ranking?
+you check it you will see it
+and predict the information retrieval
+relies on introductory sections of
+documents for initial relevance
+calculation
+in the initial relevance calculation for
+instance the urls might be important
+because some factors are important
+initially later they are not that
+important predictive document ranking
+relies on query dependent and
+independent factors predetermined
+thresholds remember relative ranking and
+the page rank relevance and
+comprehensiveness thresholds should be
+determined and this section is as i said
+related to the relative ranking so page
+rank per web page
+is actually directly affecting your rank
+ability overall even if you write
+nonsense things still your page link
+might your rank even if you spam
+pagerank might you be forgiven
+and uh unfortunately it's a true thing
+so usually people try to seo that is
+they try to compare things to each other
+Word Order and Search Intent, Relevance Effect
+like they're enemies they're actually
+complementary things
+page rank helps semantic semantics help
+page rank they both help to the website
+and can change word order affect
+information retrieval score should
+results change from vision board to
+board vision it shouldn't change but it
+changes and there is no way to prevent
+it because word proximity co-accuracy
+matters is word of interest calculations
+initial and central and context words
+will change and weight calculations will
+change even if the search intent is same
+still the generated query
+written versions where writing versions
+will change so i know that actually
+sharing all this information sometimes
+people tell me that you share all these
+things don't you fear from a competitor
+or something no because people don't
+read that's why i take this video
+and i know that
+i have spent maybe more than two years
+just for reading patterns every day more
+than five hours so it's not that easy to
+grasp all these things that's why i
+Indigenous or Exogenous Ranking Factors
+created course as 40 hours and i don't
+have that kind of fear
+and i would like to learn from other
+people i i always learn from other
+people actually but imagine that there
+are some other people besides just
+pizlovsky or dave davies and they also
+process these things and they also
+implement and
+they also create resources it will be
+fun to see it and i will be happy to see
+it to be honest so maybe in the future i
+hope
+and which one is more important
+indigenous or exogenous ranking factors
+internal ranking factors
+okay i have written wrong sorry i mean
+external here and no one said that
+everyone
+i guess they guessed but anyway
+so it depends the direction of the
+google search engine is from exogenous
+ranking factors to the indigenous
+ranking factors why because it is more
+collaborative controllable and
+manipulation possible is harder quality
+can be sent it can be seen from the
+content better rather than external link
+flow because we can manipulate pagerank
+so easily but you can't manipulate
+entire overall site quality you need to
+be honest there so it's easier for
+search engine but at the same time if
+there are too much similar content to
+each other again they will need to use
+page rank or they will need to use
+historical data or branch value or brand
+authority or user generated content from
+other sections entity oriented search is
+not just about websites they rank
+entities web entities your facebook page
+can affect rankings it can affect your
+authority or your prestige or other
+pages or other platforms
+and since i read the history of seo
+during 2011 actually we have seen lots
+of examples that
+we have seen lots of examples that
+actually facebook pages were affecting
+the uh rankings and it's not that old
+you know the the new generation seos i
+am also new generation seo i have just
+seven years of experience but we forget
+things it's so sad when i remember
+whenever i checked the old
+posts i see that actually we talk about
+the same thing we ask the same questions
+Does Internal Link Position Matter?
+and we all we're always hyped so i don't
+know why it happens but i guess it we
+don't read history or
+our past that's why it happens
+okay which order is better for external
+anchor text a backlink related question
+here
+branding generic branded branded branded
+generic and generic branded and branded
+so imagine that you want to create a
+pickling campaign and you don't want to
+use your brand name directly so in this
+case you can start from the generic and
+Anchor Text Types
+then you can move on to the branded and
+then you can continue again from the
+branded only or you can unite them i
+have created two samples here if there
+is a high level of content production
+choose b go with branded and branded and
+generic if there is not enough content
+choose c and consolidate page rank for
+higher historical data
+earlier in other words
+rank for a couple of things use that
+alternative to reflect others
+should we restrict the internal link
+count within the main content
+most say
+yes we should and we can some of them
+say no we shouldn't and but we can some
+say we shouldn't also we can't i believe
+this this version the third third option
+i believe they work with big companies
+corporate companies because there
+unfortunately
+it's so hard to be an seo and convince
+people i know it from spotify and other
+places like airbnb or trainia it's
+really hard they always pretend like
+they care about the issue but they just
+care about money not
+the seo actually they see it as a tool
+i love seo but i know that their
+perspective is also a little bit logical
+at the same time they are not willing to
+do the work
+mostly
+yes every internal link will divide the
+page link by diluting the main purpose
+of the content according to the internal
+link count the contents length purpose
+can change from an article to hub type
+content we shall talk about hilltop
+algorithm a little bit there even if
+google doesn't use it it actually
+reflects
+reflects a good possibility
+does internal link position matter must
+say yes and here i say for crawling no
+for page rank flow yes for relevance
+again yes and there are a couple of more
+things there actually for navigation yes
+for instance i could add that to
+mos a again yes with 85 percent
+so 14th question what is the similarity
+threshold why it is important for seo if
+you do
+experiments with duplicate content is
+What is similarity threshold?
+really important
+similarity threshold is to determine
+whether two documents are similar enough
+or not if two documents are too similar
+to each other one of them will be
+canonical or representative search
+engines can cluster documents and choose
+one of them cross domain chronicle as
+representative content being shadowed or
+shadowed by other source can be seen
+during broadca algorithm updates due to
+these if you see that all of your
+queries all of your features in the past
+go another source it means that you are
+shadowed
+we can explain it maybe later to you i
+can show some search console examples
+for that do you think that the search
+engine optimization is harder than
+programming or not must say no
+and i strongly disagree i am able to
+program things when i press the enter it
+works in seo is not like that you need
+to read
+maybe thousands of pages you need to
+understand many many different things at
+least for holistic seo definite the
+holistic issue is harder
+if you talk about just tradition as you
+like write link and leave
+it's not that hard but if you want to do
+SEO vs Programming Difficulty
+everything perfect if you want to
+increase all the potential if you want
+to use every possibility or every
+every power point of the seo then it's
+definitely harder
+this is an opinion-based question yes
+for me seo is harder than coding and
+programming because seo also involves
+programming and there is no school for
+seo search engines do not give what they
+do and why what you should do results
+come six months later in programming
+everything works in five seconds with
+clear documentation seo is harder than
+development because we don't even have a
+proper documentation everything is
+really
+harder it gets harder because to be
+honest google also hides many things and
+they are right to hide them because we
+will exploit things in programming it's
+not like that you have many many
+tutorials and in seo one thing can work
+today tomorrow it won't work and one
+thing can work even morning but it can
+stop at the night and it can work for
+one side and it might not work for
+another side
+so it's definitely harder it's sometimes
+like seeking a black cat in the darkness
+that's why i read patterns they show me
+the way
+what would you change in the google's
+algorithm what would you like to tell
+john muir how do you feel about small
+websites are you happy with non-given
+voice search data or should google try
+to keep users on serp should be paid for
+these by google so this is my answer
+thank you john miller for every question
+Chat with Google
+that actually
+he answers because he always
+open as your hangouts even if it is
+christmas so he actually spends his own
+time for doing this so we have to thank
+him
+and at the same time from my point of
+view i would like to see voice search
+data definitely because we don't have
+click start but we have selections we
+can talk about what a selection is later
+i have actually processed all of these
+things in the course i know google sends
+more traffic to the websites every year
+but the percentage gets smaller too
+we take more traffic from google because
+internet user count and internet usage
+rate actually increases
+and this is a thank you note here i will
+publish all these questions
+later i will put it into the add-on at
+the end of the
+website if you like these type of
+questions
+if you like these type of answers and if
+you like these type of videos just try
+to comment i actually read all of the
+comments even if i don't have tried to
+answer them i will try to add more
+videos more scientific videos i will try
+to create some videos from some of my
+SEO Course Introduction
+old casio case studies or new ones as
+well because i know that some of you
+don't like reading
+and i also know that some of you will
+find these things boring but if you love
+search engines if you allow information
+retrieval and extraction and if you
+actually
+love reading the minds of the search
+engines and optimizing websites if you
+love solving the puzzles i believe we
+will be able to create a kind of
+baseline here i also think to add some
+programming related things too
+so you will see the article now
+and
+soon very soon i will launch the course
+i try to fix every or ux error or other
+things
+and believe me it will be better to
+publish it later than now because this
+way you will be able to benefit it even
+further and i believe that there will be
+lots of lots of useful examples there
+but remember the relative ranking here
+if you use semantic casio in a proper
+way and also if your competitor uses it
+in a proper way
+you will be have to fight for every
+single argument declaration triple
+accuracy signal or accuracy directly you
+will need to order the facts that you
+will need to optimize the sentences even
+sentence length that's why i suggest you
+to check this nltk after a point it will
+show you the way
+and i can add that programming section
+to the course too i didn't add anything
+to the relation to the programming
+because most of the time in the course
+also you will see i have just added
+natural improvising videos there
+and i have
+i don't use tools i just use my mind in
+affiliate life also you will be able to
+see it i take random articles from
+wikipedia and then i try to create a
+kind of simple strategy in just under 10
+minutes
+so it's easy to do you you should just
+trust yourself a little bit but same
+time remember that if your competitor
+also does the same you will need to go
+more granular you will need to add more
+detail you will need to calculate every
+teeny tiny detail there you will need to
+place the links carefully you will need
+to calculate the link distance or you
+will need to calculate the semantic
+distance and relevance and also all of
+the related search activities so that's
+why you need this course
+and i will show a kind of framework in
+the course and i will call it chorus
+framework and i believe that that
+conceptualization will help you to
+remember it better because in the future
+i believe you will be able to use this
+strategy as a kind of even tradition
+and i use it many years it worked really
+really well just remember that
+relative ranking is a thing and you will
+always need to go better and better to
+be able to beat your competitors or even
+to find
+blue
+so people you will see the article
+and
+that's it thanks for listening
+[Music]
